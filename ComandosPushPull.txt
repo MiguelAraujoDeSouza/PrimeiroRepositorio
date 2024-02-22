@@ -1,0 +1,3 @@
+Comandos Push e Pull
+Push: envia o arquivo do repositorio local para o repositorio remoto
+pull: pega a versao do repositorio remoto e manda pra o repositorio local
